@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//manually setState
 class Second extends StatefulWidget {
    final List<int> numbers;
    Second({super.key, required this.numbers});

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:provider_state_managment/second.dart';
+import 'package:provider_state_managment/MenullyStateManagment/second.dart';
+
+//manually setState
 
 class Home extends StatefulWidget {
   const Home({super.key});
